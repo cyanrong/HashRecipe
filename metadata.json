@@ -1,0 +1,5 @@
+{
+  "name": "HashRecipe",
+  "description": "A cross-modal recipe discovery system using Deep Hashing technology. Search recipes via text or image with high-speed retrieval.",
+  "requestFramePermissions": []
+}
